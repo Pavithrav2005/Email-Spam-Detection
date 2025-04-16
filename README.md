@@ -38,4 +38,7 @@ python spam_detector.py
 The model expects a CSV file with the following columns:
 - subject: Email subject line
 - body: Email content
-- label: 'spam' or 'ham' 
+- label: 'spam' or 'ham'
+- ![Screenshot 2025-04-16 092729](https://github.com/user-attachments/assets/a8deaef7-b50b-494c-8750-8960be7a9095)
+- 
+![Screenshot 2025-04-16 093130](https://github.com/user-attachments/assets/4510450d-df7f-4452-a2fa-66a946232879)
